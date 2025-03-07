@@ -1,0 +1,16 @@
+en nettside hvor:
+
+du kan laste opp bilde av kjøleskapet og idegriensene eller hvor du kan skrive inn det manuelt
+(ai tar idegriensene fra kjøleskapet)
+
+KI gir deg oppskrifter av mat av det du vil lage (f.eks proteinshake)
+
+websocket intergrasjon:
+
+man kan lage / opplaste egne oppskrifter 
+
+
+
+Ekstra:
+Ser hvor mye kalorier maten er, så du kan justere oppskriften på om du vil gå opp eller ned i vekt.
+Du kan sotere alle slags oppskrifter, fra proteinshake til bannanbrød. 

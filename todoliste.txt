@@ -1,0 +1,3 @@
+Prototype:
+- Brukeren kan lage en liste med ting de har i kjøleskapet
+- maskinen kan foreslå noen oppskrifter basert på hva du har i kjøleskapet
