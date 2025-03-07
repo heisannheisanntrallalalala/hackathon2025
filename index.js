@@ -26,6 +26,16 @@ app.get("/404", (req, res) => {
     res.sendFile(path.join(__dirname, "public/404.html"));
 });
 
+app.post("/api/:endpoint", (req, res) => {
+    let endpoint = req.params.endpoint;
+    let data = req.body;
+
+    if (endpoint === "test") {
+        res.json({ message: "erik test er pro?" });
+    }
+});
+
+
 app.use((req, res) => {
     res.redirect("/404");
 });
